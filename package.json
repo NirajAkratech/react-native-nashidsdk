@@ -1,0 +1,15 @@
+{
+  "name": "react-native-nashidsdk",
+  "version": "1.0.1",
+  "description": "Nashid is identity verification tool integrated seamlessly in your application for easy and robust new customers on-boarding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Niraj Gambhava",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "18.0.0",
+    "react-native": "0.69.4"
+  }
+}
