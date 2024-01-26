@@ -8,20 +8,7 @@
     "android": "react-native run-android",
     "ios": "react-native run-ios",
     "start": "react-native start",
-    "pods": "cd example && pod-install --quiet",
     "test": "jest"
-  },
-  "keywords": [
-    "react-native",
-    "ios",
-    "android",
-    "nashid",
-    "nashid sdk"
-  ],
-  "repository": "https://github.com/NirajAkratech/react-native-nashidsdk",
-  "license": "MIT",
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
@@ -40,7 +27,7 @@
     "react-test-renderer": "18.2.0",
     "typescript": "5.0.4"
   },
-  "peerDependencies": {
+  "dependencies": {
     "react": "18.2.0",
     "react-native": "0.73.2"
   }
