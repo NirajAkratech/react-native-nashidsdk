@@ -4,11 +4,6 @@
   "description": "Official React Native wrapper for Nashid SDK",
   "author": "Nashid",
   "homepage": "https://github.com/NirajAkratech/react-native-nashidsdk",
-  "main": "lib/commonjs/index",
-  "module": "lib/module/index",
-  "types": "lib/typescript/index.d.ts",
-  "react-native": "src/index",
-  "source": "src/index",
   "files": [
     "src",
     "lib",
