@@ -15,6 +15,6 @@ Pod::Spec.new do |s|
 
   s.source_files = "ios/**/*.{h,m,mm,swift}"
 
-  s.dependency "React-Core"
-  s.dependency 'Nashid_SDK', :git => "https://github.com/NirajAkratech/Nashid_SDK.git"
+  #s.dependency "React-Core"
+  #s.dependency 'Nashid_SDK', :git => "https://github.com/NirajAkratech/Nashid_SDK.git"
 end
