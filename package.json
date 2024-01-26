@@ -1,5 +1,5 @@
 {
-  "name": "NashidReactSDK",
+  "name": "nashidreactsdk",
   "version": "1.1.0",
   "description": "Official React Native wrapper for Nashid SDK",
   "author": "Nashid",
@@ -36,8 +36,8 @@
     "react-native",
     "ios",
     "android",
-    "Nashid",
-    "Nashid SDK"
+    "nashid",
+    "nashid sdk"
   ],
   "repository": "https://github.com/NirajAkratech/react-native-nashidsdk",
   "license": "MIT",
