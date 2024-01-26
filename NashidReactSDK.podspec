@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.authors      = package["author"]
 
   s.platforms    = { :ios => "11.0" }
-  s.source       = { :git => "https://github.com/Kvalifika/kvalifika-react-native-sdk.git", :tag => "#{s.version}" }
+  s.source       = { :git => "git@github.com:NirajAkratech/react-native-nashidsdk.git", :tag => "1.1.0" }
 
   s.source_files = "ios/**/*.{h,m,mm,swift}"
 
