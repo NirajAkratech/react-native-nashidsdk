@@ -4,22 +4,6 @@
   "description": "Official React Native wrapper for Nashid SDK",
   "author": "Nashid",
   "homepage": "https://github.com/NirajAkratech/react-native-nashidsdk",
-  "files": [
-    "src",
-    "lib",
-    "android",
-    "ios",
-    "cpp",
-    "NashidReactSDK.podspec",
-    "!lib/typescript/example",
-    "!android/gradle",
-    "!android/gradlew",
-    "!android/gradlew.bat",
-    "!ios/build",
-    "!**/__tests__",
-    "!**/__fixtures__",
-    "!**/__mocks__"
-  ],
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
